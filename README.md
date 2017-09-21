@@ -19,7 +19,7 @@ npm run dev
 
 ## 参数说明
 
-###prop.name="doubleBounce"||"tripleBounce"||"fadingCircle"
+prop.name="doubleBounce"||"tripleBounce"||"fadingCircle"
 
 ```
 <Spin name="fadingCircle">
