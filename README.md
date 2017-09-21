@@ -18,6 +18,7 @@ npm run dev
 ```
 
 ## 参数说明
+
 ###prop.name="doubleBounce"||"tripleBounce"||"fadingCircle"
 
 ```
