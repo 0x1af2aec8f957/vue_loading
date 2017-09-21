@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+## 基于vue的加载指示器
+
 ## demo运行
 
 ```
