@@ -1,6 +1,6 @@
 <template>
   <div id="spin">
-    <div class="flex-box"></div>
+    <div class="flex-box relative-box"></div>
     <!--prop.name:doubleBounce,tripleBounce,fadingCircle-->
     <Spin name="fadingCircle">
     <span>please wait...</span>
@@ -10,10 +10,10 @@
 
 <script>
   export default {
-    name: 'hello',
+    name: 'spin',
     data() {
       return {
-        msg: 'Welcome to Your Vue.js App'
+        msg: 'Welcome to Your Vue.js spinner!'
       }
     }
   }
@@ -39,7 +39,7 @@
     color: #42b983;
   }
 
-  .spin-box {
+  .relative-box {
     position: relative;
   }
 </style>
